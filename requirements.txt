@@ -1,0 +1,12 @@
+# Data Manipulation
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Application & Deployment
+streamlit
+gunicorn
